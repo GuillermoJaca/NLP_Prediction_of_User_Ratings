@@ -1,4 +1,4 @@
-# Text Classification In User Ratings
+# NLP Predictions of User Ratings
 
 The Data for this Hobby-Project contains product reviews and a rating for each product. A product can be rated from one to five. The dataset contains 10K samples. I analyze the dataset and build a model that is able to predict from a given review its score. 
 
